@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 23 Feb 2020 00:34:44 at http://hackbpit.iosd.tech +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://hackbpit.iosd.tech -O1 "G:\Hackbpit\hackbpit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:35:56	Warning: 	Retry after error -4 (No data (connection closed)) at link hackbpit.iosd.tech/index.html (from hackbpit.iosd.tech/)
+00:35:56	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/images/finalhack.PNG (from hackbpit.iosd.tech/)
+00:41:28	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/resources/images/client-01.jpg (from hackbpit.iosd.tech/)
+00:41:28	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/resources/images/client-02.jpg (from hackbpit.iosd.tech/)
+00:41:28	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/resources/images/client-03.jpg (from hackbpit.iosd.tech/)
+00:41:28	Warning: 	Retry after error -4 (No data (connection closed)) at link hackbpit.iosd.tech/img/aptron123.jpg (from hackbpit.iosd.tech/)
+00:41:28	Warning: 	Retry after error -4 (No data (connection closed)) at link hackbpit.iosd.tech/img/tech.png (from hackbpit.iosd.tech/)
+00:41:28	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/cdn-cgi/l/email-protection (from hackbpit.iosd.tech/)
+00:43:03	Error: 	"Not Found" (404) at link hackbpit.iosd.tech/css/owl.video.play.png (from hackbpit.iosd.tech/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 19 seconds : 42 links scanned, 32 files written (27999079 bytes overall) [27910816 bytes received at 55933 bytes/sec], 142024 bytes transferred using HTTP compression in 11 files, ratio 23%, 1.6 requests per connection
+(6 errors, 3 warnings, 0 messages)
